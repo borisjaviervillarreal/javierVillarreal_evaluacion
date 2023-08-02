@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
+.image-container {
+  padding: 10px 0;
+}
+
+.logo {
+  width: auto;
+  height: auto;
+  margin-right: 20px;
+  max-height: 100px;
+  max-width: 125px;
+}
+
+.title-component {
+  font-size: 20px;
+  padding-bottom: 20px;
+  color: #e06a38;
+  font-family: "Montserrat", sans-serif;
+  text-decoration: underline;
+}
+
+.title-component-list{
+  font-size: 15px;
+  padding-bottom: 20px;
+  color: #e06a38;
+  font-family: "Montserrat", sans-serif;
+}
+
+.label-card-info {
+  color: #e06a38;
+}
